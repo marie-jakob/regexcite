@@ -13,3 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/marie-jakob/regexcite
+BugReports: https://github.com/marie-jakob/regexcite/issues
